@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <LangVersion>latest</LangVersion>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <Authors>cdorst</Authors>
+    <Copyright>Copyright © Christopher Dorst</Copyright>
+    <Description>EntityFrameworkCore database context for StaticFooBar entities</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageIconUrl>https://cdorst-dev.azureedge.net/nuget/package-icon-64.png</PackageIconUrl>
+    <PackageId>CDorst.Entities.StaticFooBars.DatabaseContext</PackageId>
+    <PackageLicenseUrl>https://github.com/cdorst/Entities.StaticFooBars.DatabaseContext/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/cdorst/Entities.StaticFooBars.DatabaseContext</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/cdorst/Entities.StaticFooBars.DatabaseContext</RepositoryUrl>
+    <Version>1.0.11</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CDorst.Entities.StaticFooBars" Version="1.0.11" />
+    <PackageReference Include="CDorst.Entities.FooBars.DatabaseContext" Version="1.0.11" />
+  </ItemGroup>
+
+</Project>
