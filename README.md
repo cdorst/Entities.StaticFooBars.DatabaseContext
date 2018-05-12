@@ -19,8 +19,8 @@ Name | Description
 
 Name | Status
 ---- | ------
-[CDorst.Entities.StaticFooBars](https://github.com/CDorst/Entities.StaticFooBars) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst/entities-staticfoobars.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst/entities-staticfoobars) [![NuGet package status](https://img.shields.io/nuget/v/CDorst.Entities.StaticFooBars.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst.Entities.StaticFooBars)
 [CDorst.Entities.FooBars.DatabaseContext](https://github.com/CDorst/Entities.FooBars.DatabaseContext) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst/entities-foobars-databasecontext.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst/entities-foobars-databasecontext) [![NuGet package status](https://img.shields.io/nuget/v/CDorst.Entities.FooBars.DatabaseContext.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst.Entities.FooBars.DatabaseContext)
+[CDorst.Entities.StaticFooBars](https://github.com/CDorst/Entities.StaticFooBars) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst/entities-staticfoobars.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst/entities-staticfoobars) [![NuGet package status](https://img.shields.io/nuget/v/CDorst.Entities.StaticFooBars.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst.Entities.StaticFooBars)
 
 ## Dependents
 
@@ -37,7 +37,7 @@ This project is published as a NuGet package at [https://www.nuget.org/packages/
 
 ## Version
 
-1.0.19
+1.0.20
 
 ## Metaproject
 
